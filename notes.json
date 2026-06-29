@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Buy groceries",
+    "content": "Milk, eggs, bread",
+    "tag": "Shopping"
+  },
+  {
+    "title": "Team meeting",
+    "content": "Discuss Q3 results",
+    "tag": "Meeting"
+  },
+  { "title": "Morning run", "content": "5km at 7am", "tag": "Health" },
+  { "title": "Project ideas", "content": "New app concept", "tag": "Ideas" },
+  {
+    "title": "Budget review",
+    "content": "Check monthly expenses",
+    "tag": "Finance"
+  }
+]
